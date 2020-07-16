@@ -1,4 +1,4 @@
-### Menu responsivo
+# Menu responsivo
 Esse exercício tem como intuito aprender a fazer um menu responsivo
 
 <div align="center">
