@@ -2,7 +2,7 @@
 Esse exercício tem como intuito aprender a fazer um menu responsivo
 
 <div align="center">
-    <img src="./img/menu" />
+    <img src="./img/menu.png" />
 </div>
 
 
@@ -16,9 +16,9 @@ Esse exercício tem como intuito aprender a fazer um menu responsivo
 
 | Tecnologias | Para estudos |
 | ------ | ------ |
-| HTML | [https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/HTML_basico][PlDb] |
-| CSS | [https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics][PlGh] |
-| JavaScript | [https://developer.mozilla.org/en-US/docs/Web/javascript][PlGd] |
+| HTML | https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/HTML_basico
+| CSS | https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
+| JavaScript | https://developer.mozilla.org/en-US/docs/Web/javascript
 
 ## Propriedades de CSS usadas
 
