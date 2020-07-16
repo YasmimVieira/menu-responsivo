@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #6C63FF;
+    background-color: #05C7E1;
 }
 
 header .container {
@@ -63,7 +63,7 @@ header nav ul li a:hover {
         left: 0;
         width: 100vw;
         height: 100vh;
-        background-color: #6C63FF;
+        background-color: #05C7E1;
         z-index: 10;
         display: flex;
         justify-content: center;
