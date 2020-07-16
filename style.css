@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
 body {
     margin: 0;
     padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 header {
@@ -71,7 +74,7 @@ header nav ul li a:hover {
     }
     .menu-section.on .menu-toggle {
         position: absolute;
-        right: 0;
+        left: 6%;
         top: 15px;
     }
     .menu-section.on .menu-toggle .one {
@@ -90,7 +93,7 @@ header nav ul li a:hover {
     .menu-section.on nav ul a {
         transition-duration: 0.5s;
         font-size: 2rem;
-        line-height: 4rem;
+        line-height: 2rem;
         display: block;
         margin-right: 6%;
     }
